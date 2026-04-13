@@ -81,9 +81,9 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 **Fida Hussain**
 
-- LinkedIn: [Fida Hussain](https://www.linkedin.com/in/fida-hussain-38511a2a6)
-- GitHub: [@Fida1343](https://github.com/Fida1343)
-- Email: fidahussain70040@gmail.com
+- LinkedIn: [Ankur Yadav](https://www.linkedin.com/in/ankur-yadav-6704ab249)
+- GitHub: [@GEEK428](https://github.com/GEEK428)
+- Email: ankurak2369@gmail.com
 
 ## 🙏 Acknowledgments
 - Movie data sourced from IMDb
@@ -91,5 +91,3 @@ This project is licensed under the MIT License.
 - Inspired by popular recommendation systems like Netflix and Amazon
 
 ---
-
-**Made with ❤️ by Fida Hussain**
